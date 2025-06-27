@@ -41,4 +41,4 @@
 
 ### E. Merge Conflict Resolution
 
-[Merge Conflict Resolution](path/to/your/image.png)
+[Merge Conflict Resolution](images/pullrequest.png)
