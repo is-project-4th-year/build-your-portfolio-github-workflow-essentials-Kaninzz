@@ -25,20 +25,20 @@
 
 ### A. Milestones and Issues
 
-[Miletones and issues](path/to/your/image.png)
+[Miletones and issues](images/issues.png)
 
 ### B. Project Board
 
-[Project board](path/to/your/image.png)
+[Project board](images/project.png)
 
 ### C. Branching
 
-[Branching](path/to/your/image.png)
+[Branching](images/branches.png)
 
 ### D. Pull Requests
 
-[Pull Requests](path/to/your/image.png)
+[Pull Requests](images/pullrequest.png)
 
 ### E. Merge Conflict Resolution
 
-[Merge Conflict Resolution](images/pullrequest.png)
+[Merge Conflict Resolution](images/mergeconflict.png)
